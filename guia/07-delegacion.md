@@ -11,7 +11,7 @@ Todo brief tiene seis partes. Si falta una, el agente la completará por su cuen
 1. **Objetivo:** resultado observable, en una frase.
 2. **Contexto:** qué documentos leer y qué ya se intentó.
 3. **Alcance:** qué puede tocar.
-4. **Límites:** qué no puede tocar, aunque parezca razonable.
+4. **No tocar:** qué no puede tocar, aunque parezca razonable.
 5. **Criterio de done:** la comprobación que debe pasar.
 6. **Evidencia:** qué debe mostrar al terminar.
 
@@ -98,4 +98,4 @@ El objetivo de la revisión no es desconfiar: es mantener la comprensión de lo 
 
 ## 7. Qué sigue
 
-Los errores anteriores tienen nombre y se repiten: **guia/08-antipatrones.md**.
+Los errores anteriores tienen nombre y se repiten: [guia/08-antipatrones.md](../guia/08-antipatrones.md).

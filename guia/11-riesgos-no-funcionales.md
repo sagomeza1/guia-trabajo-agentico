@@ -119,3 +119,9 @@ Mitigación: versión del modelo fijada, eval set mensual con casos nuevos del t
 - [ ] Versión del modelo fijada.
 - [ ] Aviso de automatización y límites de dominio.
 - [ ] Sustitución de proveedor probada al menos una vez.
+
+---
+
+## 11. Qué sigue
+
+Con el método completo, el caso aplicado de principio a fin está en [ejemplo/caso-bot-gastos.md](../ejemplo/caso-bot-gastos.md).

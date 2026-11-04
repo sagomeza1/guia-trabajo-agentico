@@ -64,4 +64,4 @@ Si la respuesta a las cinco es sí, la herramienta sirve para este flujo. Si no,
 
 ## 6. Qué sigue
 
-El método completo, aplicado: **ejemplo/caso-bot-gastos.md**.
+El método se completa con los sistemas no deterministas y los riesgos no funcionales: [guia/10-sistemas-no-deterministas.md](../guia/10-sistemas-no-deterministas.md) y [guia/11-riesgos-no-funcionales.md](../guia/11-riesgos-no-funcionales.md). El caso aplicado completo está en [ejemplo/caso-bot-gastos.md](../ejemplo/caso-bot-gastos.md).

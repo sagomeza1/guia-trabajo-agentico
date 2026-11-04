@@ -82,9 +82,9 @@ Cinco documentos, cortos y con funciones distintas:
 
 Los tres primeros describen el proyecto; los dos últimos mantienen las sesiones coherentes entre sí.
 
-Si el sistema no es determinista (LLM, generación de texto, recomendación), la estrategia de pruebas del punto 2 incluye además el conjunto de evaluación y los criterios estadísticos: **guia/10-sistemas-no-deterministas.md**.
+Si el sistema no es determinista (LLM, generación de texto, recomendación), la estrategia de pruebas del punto 2 incluye además el conjunto de evaluación y los criterios estadísticos: [guia/10-sistemas-no-deterministas.md](../guia/10-sistemas-no-deterministas.md).
 
-Plantillas en **plantillas/objetivos-proyecto.md**, **plantillas/especificaciones-proyecto.md**, **plantillas/plan.md**, **plantillas/decisiones.md** y **plantillas/AGENTS.md**.
+Plantillas en [plantillas/objetivos-proyecto.md](../plantillas/objetivos-proyecto.md), [plantillas/especificaciones-proyecto.md](../plantillas/especificaciones-proyecto.md), [plantillas/plan.md](../plantillas/plan.md), [plantillas/decisiones.md](../plantillas/decisiones.md) y **plantillas/AGENTS.md**.
 
 ## 4. Puerta de salida
 
@@ -110,4 +110,4 @@ Si alguna respuesta es "depende", todavía no terminó.
 
 ## 6. Qué sigue
 
-Con los contratos escritos, el trabajo se parte en porciones: **guia/03-porciones.md**.
+Con los contratos escritos, el trabajo se parte en porciones: [guia/03-porciones.md](../guia/03-porciones.md).

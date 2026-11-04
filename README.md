@@ -67,6 +67,8 @@ No hace falta experiencia previa con agentes, pero sí haber escrito código o e
 4. Para cada porción: brief, plan aprobado, implementación, verificación, diff revisado, explicación.
 5. Refactoriza cada dos o tres porciones, con la suite en verde antes y después.
 
+Si el sistema responde con un LLM, añade además el eval set y los umbrales ([guia/10-sistemas-no-deterministas.md](guia/10-sistemas-no-deterministas.md)) y los riesgos de datos y coste ([guia/11-riesgos-no-funcionales.md](guia/11-riesgos-no-funcionales.md)).
+
 Si un paso no deja evidencia, no está hecho.
 
 ---

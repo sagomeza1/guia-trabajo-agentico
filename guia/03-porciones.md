@@ -60,7 +60,7 @@ Empieza siempre por la porción que, si falla, cambia el plan.
     Criterio de done: [prueba o comprobación concreta]
     Evidencia esperada: [salida de test, diff, captura]
 
-Plantilla completa en **plantillas/brief-porcion.md**.
+Plantilla completa en [plantillas/brief-porcion.md](../plantillas/brief-porcion.md).
 
 ### Ejemplo
 

@@ -43,7 +43,7 @@ Registro ligero de arquitectura: fecha, decisión, motivo, alternativa descartad
     Alternativa descartada: SQLite, por costo de migración.
     Revisar si se superan 10.000 registros.
 
-Plantilla en **plantillas/decisiones.md**.
+Plantilla en [plantillas/decisiones.md](../plantillas/decisiones.md).
 
 ---
 
@@ -98,4 +98,4 @@ Actualizar es parte de cerrar, no una tarea aparte que se hace "algún día".
 
 ## 7. Qué sigue
 
-Con el contexto ordenado, el problema pasa a ser cómo se encarga el trabajo: **guia/07-delegacion.md**.
+Con el contexto ordenado, el problema pasa a ser cómo se encarga el trabajo: [guia/07-delegacion.md](../guia/07-delegacion.md).

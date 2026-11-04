@@ -24,7 +24,7 @@ Los diez errores que más caro salen al trabajar con agentes. Cada uno con sínt
 
 **Síntoma:** el resultado es plausible pero no es lo que pedías.
 **Causa:** falta objetivo, contexto o criterio de done.
-**Antídoto:** el brief de seis partes de **guia/07-delegacion.md**.
+**Antídoto:** el brief de seis partes de [guia/07-delegacion.md](../guia/07-delegacion.md).
 
 ---
 
@@ -84,6 +84,18 @@ Los diez errores que más caro salen al trabajar con agentes. Cada uno con sínt
 
 ---
 
+## 11. Una corrida como evidencia
+
+**Síntoma:** «lo probé con veinte preguntas y respondió bien».
+**Causa:** tratar una muestra pequeña y no repetida como la verdad del sistema.
+**Antídoto:** eval set con N declarado, umbral e intervalo. Véase [guia/10-sistemas-no-deterministas.md](../guia/10-sistemas-no-deterministas.md).
+
+## 12. Promedio global sin segmentos
+
+**Síntoma:** la métrica general es buena y aun así falla para un grupo de usuarios.
+**Causa:** un promedio esconde el fallo del segmento que importa.
+**Antídoto:** estratificar y reportar por segmento, no solo el global.
+
 ## Tabla de bolsillo
 
 | Si ves esto | Probablemente es | Haz esto |
@@ -94,9 +106,11 @@ Los diez errores que más caro salen al trabajar con agentes. Cada uno con sínt
 | El agente pregunta todo | Brief incompleto | Añade alcance y límites |
 | El agente decide todo | Brief sin criterios | Define el done |
 | Todo se rompe al refactorizar | No hay suite | Pruebas primero |
+| «Probé veinte preguntas y bien» | Sin eval set | Métrica con N e intervalo |
+| Métrica buena pero falla para algunos | Promedio global | Reporta por segmento |
 
 ---
 
 ## Qué sigue
 
-Para elegir la herramienta adecuada: **guia/09-herramientas.md**.
+Para elegir la herramienta adecuada: [guia/09-herramientas.md](../guia/09-herramientas.md).

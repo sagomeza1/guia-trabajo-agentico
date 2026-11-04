@@ -167,4 +167,4 @@ Lo único que cambia es la definición de evidencia: **para lo determinista, un 
 
 ## Qué sigue
 
-Los riesgos que no son de calidad ni de funcionalidad: **guia/11-riesgos-no-funcionales.md**.
+Los riesgos que no son de calidad ni de funcionalidad: [guia/11-riesgos-no-funcionales.md](../guia/11-riesgos-no-funcionales.md).

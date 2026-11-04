@@ -87,4 +87,4 @@ La deuda no registrada es la que se olvida hasta que duele.
 
 ## 8. Qué sigue
 
-El refactor y la verificación dependen del contexto que el agente tiene disponible: **guia/06-contexto.md**.
+El refactor y la verificación dependen del contexto que el agente tiene disponible: [guia/06-contexto.md](../guia/06-contexto.md).

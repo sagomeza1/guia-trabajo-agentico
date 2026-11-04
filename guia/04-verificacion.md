@@ -90,7 +90,7 @@ Si el sistema responde con un LLM, la salida varía y una prueba binaria no la v
 - Reporta la tasa con su N, no un porcentaje aislado.
 - Añade casos peligrosos: alucinación, fuera de alcance, inyección.
 
-El detalle está en **guia/10-sistemas-no-deterministas.md**.
+El detalle está en [guia/10-sistemas-no-deterministas.md](../guia/10-sistemas-no-deterministas.md).
 
 ---
 
@@ -109,4 +109,4 @@ El principio es el mismo: **un comando, una salida, una puerta**.
 
 ## 9. Qué sigue
 
-Con la verificación resuelta, el siguiente problema es la deuda estructural: **guia/05-refactor.md**.
+Con la verificación resuelta, el siguiente problema es la deuda estructural: [guia/05-refactor.md](../guia/05-refactor.md).

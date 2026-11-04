@@ -109,6 +109,6 @@ En ambos casos, la salida no es empezar de nuevo: es escribir lo que falta (cont
 
 Si aceptas el modelo, el orden de lectura es:
 
-1. **guia/02-fase-cero.md** — qué decides antes de empezar.
-2. **guia/03-porciones.md** — cómo se parte el trabajo.
-3. **guia/04-verificacion.md** — qué cuenta como terminado.
+1. [guia/02-fase-cero.md](../guia/02-fase-cero.md) — qué decides antes de empezar.
+2. [guia/03-porciones.md](../guia/03-porciones.md) — cómo se parte el trabajo.
+3. [guia/04-verificacion.md](../guia/04-verificacion.md) — qué cuenta como terminado.
