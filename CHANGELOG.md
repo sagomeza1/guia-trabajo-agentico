@@ -8,6 +8,8 @@ El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/
 
 ### Added
 
+- Corrección de consistencia en **guia/02-fase-cero.md**: la salida de la Fase 0 pasa de tres a cinco documentos, incluidos **decisiones.md** y **AGENTS.md**, que el caso ya usaba.
+
 - **README.md** — entrada, idea central, mapa de documentos, ruta de lectura e inicio rápido.
 - **guia/01-modelo-hibrido.md** — comparación de los dos extremos, modelo intermedio y principios.
 - **guia/02-fase-cero.md** — contratos, criterios de aceptación y estrategia de pruebas.
@@ -18,6 +20,8 @@ El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/
 - **guia/07-delegacion.md** — anatomía del brief, niveles de autonomía y paralelismo.
 - **guia/08-antipatrones.md** — diez errores frecuentes con síntoma, causa y antídoto.
 - **guia/09-herramientas.md** — criterios de elección y encaje de cada tipo de herramienta.
+- **guia/10-sistemas-no-deterministas.md** — separación entre pruebas deterministas y evaluaciones, eval sets, intervalos de confianza y jueces LLM calibrados.
+- **guia/11-riesgos-no-funcionales.md** — privacidad, seguridad, coste, latencia, deriva y dependencia del proveedor, con evidencias por riesgo.
 - **ejemplo/caso-bot-gastos.md** — el método aplicado sobre un proyecto pequeño.
 - **plantillas/** — objetivos, especificaciones, brief, plan, decisiones y AGENTS.
 - **AGENTS.md** — reglas de edición y verificación para agentes.

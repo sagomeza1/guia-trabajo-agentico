@@ -81,7 +81,20 @@ Si una puerta no tiene evidencia asociada, no es una puerta: es una intención.
 
 ---
 
-## 7. Verificación de documentación
+## 7. Cuando la salida no es determinista
+
+Si el sistema responde con un LLM, la salida varía y una prueba binaria no la valida. Ahí no se aplica "pasa o falla", sino:
+
+- Separa lo determinista (orquestación, validación, formato, permisos) y pruébalo como siempre.
+- Mide la calidad de respuesta con un eval set versionado, umbral e intervalo de confianza.
+- Reporta la tasa con su N, no un porcentaje aislado.
+- Añade casos peligrosos: alucinación, fuera de alcance, inyección.
+
+El detalle está en **guia/10-sistemas-no-deterministas.md**.
+
+---
+
+## 8. Verificación de documentación
 
 En repositorios como este, la evidencia es distinta:
 
@@ -94,6 +107,6 @@ El principio es el mismo: **un comando, una salida, una puerta**.
 
 ---
 
-## 8. Qué sigue
+## 9. Qué sigue
 
 Con la verificación resuelta, el siguiente problema es la deuda estructural: **guia/05-refactor.md**.

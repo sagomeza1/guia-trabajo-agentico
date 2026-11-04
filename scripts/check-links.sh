@@ -19,6 +19,8 @@ required=(
   guia/07-delegacion.md
   guia/08-antipatrones.md
   guia/09-herramientas.md
+  guia/10-sistemas-no-deterministas.md
+  guia/11-riesgos-no-funcionales.md
   ejemplo/caso-bot-gastos.md
   plantillas/brief-porcion.md
   plantillas/plan.md

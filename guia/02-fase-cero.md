@@ -72,15 +72,19 @@ Regla práctica: **si no puedes imaginar la prueba que lo demuestra, no está li
 
 ## 3. Salida de la fase
 
-Tres documentos, cortos:
+Cinco documentos, cortos y con funciones distintas:
 
 1. **objetivos-proyecto.md** — qué se construye, para quién y qué queda fuera.
 2. **especificaciones-proyecto.md** — stack, arquitectura, contratos, criterios y estrategia de pruebas.
 3. **plan.md** — lista de porciones con estado.
+4. **decisiones.md** — las decisiones estructurales tomadas en esta fase, con motivo y alternativa descartada.
+5. **AGENTS.md** — reglas del proyecto que el agente debe leer antes de tocar nada.
 
-Plantillas en **plantillas/objetivos-proyecto.md** y **plantillas/especificaciones-proyecto.md**.
+Los tres primeros describen el proyecto; los dos últimos mantienen las sesiones coherentes entre sí.
 
----
+Si el sistema no es determinista (LLM, generación de texto, recomendación), la estrategia de pruebas del punto 2 incluye además el conjunto de evaluación y los criterios estadísticos: **guia/10-sistemas-no-deterministas.md**.
+
+Plantillas en **plantillas/objetivos-proyecto.md**, **plantillas/especificaciones-proyecto.md**, **plantillas/plan.md**, **plantillas/decisiones.md** y **plantillas/AGENTS.md**.
 
 ## 4. Puerta de salida
 

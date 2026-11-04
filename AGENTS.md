@@ -20,6 +20,8 @@ Guía de trabajo agéntico: método híbrido para encargar, construir, verificar
 | **guia/07-delegacion.md** | Briefs, autonomía, permisos y paralelismo. |
 | **guia/08-antipatrones.md** | Errores frecuentes y antídotos. |
 | **guia/09-herramientas.md** | Criterios para elegir y configurar herramientas. |
+| **guia/10-sistemas-no-deterministas.md** | Evals, criterios estadísticos y dobles de prueba para sistemas con LLM. |
+| **guia/11-riesgos-no-funcionales.md** | Privacidad, seguridad, coste, latencia y proveedor. |
 | **ejemplo/caso-bot-gastos.md** | Caso completo aplicado. |
 | **plantillas/** | Plantillas copiables. |
 | **CHANGELOG.md** | Historial de cambios. |
