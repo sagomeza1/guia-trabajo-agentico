@@ -1,5 +1,7 @@
 # Fase 0: contratos y esqueleto
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 La Fase 0 es la única parte del trabajo que no se delega. No escribe código: escribe las decisiones que hacen que el código se pueda construir por partes sin que todo se acople.
 
 > Si esta fase queda vacía, el agente la completará por su cuenta, y lo hará de forma plausible pero arbitraria.

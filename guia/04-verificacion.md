@@ -1,5 +1,7 @@
 # Verificación y evidencia
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 Un agente siempre puede decir que terminó. La pregunta es qué lo demuestra. Este documento define qué cuenta como evidencia y cuándo una porción está cerrada.
 
 ---

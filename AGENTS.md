@@ -22,7 +22,8 @@ Guía de trabajo agéntico: método híbrido para encargar, construir, verificar
 | [guia/09-herramientas.md](guia/09-herramientas.md) | Criterios para elegir y configurar herramientas. |
 | [guia/10-sistemas-no-deterministas.md](guia/10-sistemas-no-deterministas.md) | Evals, criterios estadísticos y dobles de prueba para sistemas con LLM. |
 | [guia/11-riesgos-no-funcionales.md](guia/11-riesgos-no-funcionales.md) | Privacidad, seguridad, coste, latencia y proveedor. |
-| [ejemplo/caso-bot-gastos.md](ejemplo/caso-bot-gastos.md) | Caso completo aplicado. |
+| [ejemplo/caso-bot-gastos.md](ejemplo/caso-bot-gastos.md) | Caso completo, determinista. |
+| [ejemplo/caso-asistente-soporte.md](ejemplo/caso-asistente-soporte.md) | Caso completo con LLM. |
 | **plantillas/** | Plantillas copiables. |
 | **CHANGELOG.md** | Historial de cambios. |
 | **LICENSE** | CC BY 4.0, texto legal canónico. |

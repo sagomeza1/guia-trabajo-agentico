@@ -1,5 +1,7 @@
 # Porciones verticales
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 Una porción es la unidad de trabajo del modelo híbrido. Todo lo demás —brief, verificación, commit, refactor— se organiza alrededor de ella.
 
 ---

@@ -1,5 +1,7 @@
 # Sistemas no deterministas
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 Todo lo anterior sigue aplicando cuando la salida no es fija. Lo que cambia es **cómo se comprueba**. Un chatbot con LLM no se valida con "la prueba pasa o falla": se valida separando lo determinista de lo probabilístico y midiendo lo segundo con criterios estadísticos.
 
 ---

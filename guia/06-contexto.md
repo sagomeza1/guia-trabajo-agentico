@@ -1,5 +1,7 @@
 # Contexto vivo
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 El agente no recuerda entre sesiones. Lo que no está escrito, no existe; y lo que está escrito de más, compite con lo importante.
 
 ---

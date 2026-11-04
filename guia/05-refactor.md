@@ -1,5 +1,7 @@
 # Refactor continuo
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 El refactor al final del proyecto es el cambio más grande, con la menor verificación y el mayor riesgo. Este documento propone hacerlo en dosis pequeñas, todo el tiempo.
 
 ---

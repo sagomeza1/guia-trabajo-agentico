@@ -44,7 +44,8 @@ No hace falta experiencia previa con agentes, pero sí haber escrito código o e
 | [guia/09-herramientas.md](guia/09-herramientas.md) | Qué pedirle a una herramienta agéntica y cómo encaja cada tipo. |
 | [guia/10-sistemas-no-deterministas.md](guia/10-sistemas-no-deterministas.md) | Cómo se verifica lo que no da siempre la misma salida: eval sets e intervalos. |
 | [guia/11-riesgos-no-funcionales.md](guia/11-riesgos-no-funcionales.md) | Privacidad, seguridad, coste, latencia y dependencia del proveedor. |
-| [ejemplo/caso-bot-gastos.md](ejemplo/caso-bot-gastos.md) | El método aplicado de principio a fin sobre un proyecto pequeño. |
+| [ejemplo/caso-bot-gastos.md](ejemplo/caso-bot-gastos.md) | El método aplicado sobre un proyecto determinista (terminal). |
+| [ejemplo/caso-asistente-soporte.md](ejemplo/caso-asistente-soporte.md) | El método aplicado a un asistente con LLM: eval set, umbral e intervalo, presupuesto. |
 | **plantillas/** | Plantillas listas para copiar: brief, plan, decisiones, AGENTS, objetivos y especificaciones. |
 
 ---

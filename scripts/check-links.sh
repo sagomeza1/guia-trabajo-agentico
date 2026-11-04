@@ -22,6 +22,7 @@ required=(
   guia/10-sistemas-no-deterministas.md
   guia/11-riesgos-no-funcionales.md
   ejemplo/caso-bot-gastos.md
+  ejemplo/caso-asistente-soporte.md
   plantillas/brief-porcion.md
   plantillas/plan.md
   plantillas/decisiones.md

@@ -1,5 +1,7 @@
 # Riesgos no funcionales
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 Privacidad, seguridad, coste, latencia y dependencia del proveedor no son "temas de producción": son requisitos que se deciden en la Fase 0 o se descubren en el peor momento. En un chatbot de atención al cliente pesan tanto como la calidad de la respuesta.
 
 ---

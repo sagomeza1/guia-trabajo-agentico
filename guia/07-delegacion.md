@@ -1,5 +1,7 @@
 # Delegación: briefs, autonomía y permisos
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 Delegar no es pedir. Es definir un resultado, un límite y una forma de comprobarlo. Este documento cubre cómo se encarga el trabajo y cuánta autonomía se concede.
 
 ---

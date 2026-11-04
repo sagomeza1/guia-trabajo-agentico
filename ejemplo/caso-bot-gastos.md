@@ -1,5 +1,7 @@
 # Caso completo: bot de gastos
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 El método aplicado sobre un proyecto pequeño y realista. Sirve como referencia de qué se escribe, qué se pide y qué se verifica en cada paso.
 
 > Proyecto: registrar gastos personales desde la terminal, listarlos por mes y totalizar por categoría. Un solo usuario, datos locales, sin servidor.

@@ -1,5 +1,7 @@
 # El modelo híbrido
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 Este documento explica por qué el trabajo con agentes falla en los extremos y qué se hace en el medio. Es la base de todo lo demás.
 
 ---

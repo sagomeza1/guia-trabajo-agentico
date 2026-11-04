@@ -20,7 +20,9 @@ El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/
 - [guia/09-herramientas.md](guia/09-herramientas.md) — criterios de elección y encaje de cada tipo de herramienta.
 - [guia/10-sistemas-no-deterministas.md](guia/10-sistemas-no-deterministas.md) — separación entre pruebas deterministas y evaluaciones, eval sets, intervalos de confianza y jueces LLM calibrados.
 - [guia/11-riesgos-no-funcionales.md](guia/11-riesgos-no-funcionales.md) — privacidad, seguridad, coste, latencia, deriva y dependencia del proveedor, con evidencias por riesgo.
-- [ejemplo/caso-bot-gastos.md](ejemplo/caso-bot-gastos.md) — el método aplicado sobre un proyecto pequeño.
+- [ejemplo/caso-bot-gastos.md](ejemplo/caso-bot-gastos.md) — el método aplicado sobre un proyecto pequeño (determinista).
+- [ejemplo/caso-asistente-soporte.md](ejemplo/caso-asistente-soporte.md) — caso completo con LLM: eval set, umbral e intervalo, presupuesto y riesgos no funcionales.
+- Nota de última revisión (2026-11-04) en los documentos de **guia/** y en los dos casos.
 - **plantillas/** — objetivos, especificaciones, brief, plan, decisiones y AGENTS.
 - **AGENTS.md** — reglas de edición y verificación para agentes.
 - **scripts/check-links.sh** — verificador local de archivos, encabezados y enlaces.

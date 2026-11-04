@@ -1,5 +1,7 @@
 # Antipatrones
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 Los diez errores que más caro salen al trabajar con agentes. Cada uno con síntoma, causa y antídoto.
 
 ---

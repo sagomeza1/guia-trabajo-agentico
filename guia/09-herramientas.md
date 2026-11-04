@@ -1,5 +1,7 @@
 # Herramientas
 
+> 🗓️ **Última revisión:** 2026-11-04.
+
 El método es independiente de la herramienta. Pero no todas las herramientas permiten aplicarlo igual. Este documento explica qué pedirle a una y cómo encaja cada tipo.
 
 ---
